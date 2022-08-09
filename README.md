@@ -1,6 +1,6 @@
 # bike_uber_manhattan
 
-Check out the medium post about this project: []
+Please, check out the [medium post](https://danieleliezer.medium.com/uber-vs-bikes-in-manhattan-a-study-with-python-bf5b5949ff3c) about this project!
 
 ### Description
 
