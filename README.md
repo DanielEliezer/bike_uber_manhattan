@@ -33,7 +33,7 @@ We are going to try to answer some of these questions using python, with a littl
 - uber_bike_manhattan_study.html: The project as a html file
 - bike_week, bike_weekend, uber_week, uber_weekend: the folders that contains the gif of the timelapse of the trips, and all the auxiliar .png images
 
-* Important Note: The csv files used on this project, (with uber and bike trips) are to bigger than github allows. Therefore, please download it on the original source:
+Important Note: The csv files used on this project, (with uber and bike trips) are to bigger than github allows. Therefore, please download it on the original source:
 
 [Bike Trips](https://s3.amazonaws.com/tripdata/index.html)
 
