@@ -21,15 +21,23 @@ We are going to try to answer some of these questions using python, with a littl
 - We can see a very high demand for uber rides at weekend nights. Those trips start mostly in the southern districts, such as west village and east village.
 
 
+
 ### Files in the repository:
-- 201809-citibike-tripdata.csv: The csv file with all the bike trips, collected from the city bike website
-- uber-raw-data-sep14.csv: The csv file with all the uber trips, compiled by the Five-Thirty-Eight portal
+
+
+- 201809-citibike-tripdata.csv*: The csv file with all the bike trips, collected from the city bike website
+- uber-raw-data-sep14.csv*: The csv file with all the uber trips, compiled by the Five-Thirty-Eight portal
 - nyc_map: A folder with a lot of files, that contains a shapefile that will allow us to draw the city neighborhoods limits.
 - uber_bike_manhattan_study.ipynb: The notebook of the project
 - uber_bike_manhattan_study.py: The project as a python file
 - uber_bike_manhattan_study.html: The project as a html file
 - bike_week, bike_weekend, uber_week, uber_weekend: the folders that contains the gif of the timelapse of the trips, and all the auxiliar .png images
 
+* Important Note: The csv files used on this project, (with uber and bike trips) are to bigger than github allows. Therefore, please download it on the original source:
+
+[Bike Trips](https://s3.amazonaws.com/tripdata/index.html)
+
+[Uber Trips](https://github.com/fivethirtyeight/uber-tlc-foil-response)
 
 ### Libraries used:
 Pandas, Numpy, Datetime, Seaborn, Matplotlib, Plotly, Branca, Folium, Geopandas, Imageio, Selenium
